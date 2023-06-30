@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/tjpink/Documents/temp/taubot_ws/install/topic_tools_interfaces/include/**",
+        "/home/tjpink/Documents/temp/taubot_ws/install/taubot_hardware/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/tjpink/Documents/temp/taubot_ws/src/taubot_hardware/include/**",
+        "/home/tjpink/Documents/temp/taubot_ws/src/topic_relay/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
